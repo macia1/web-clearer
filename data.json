@@ -1,0 +1,6 @@
+{
+	"type":"module",
+	"douyu.com":['js-barrage-extend-container','LazyLoad-entity','js-room-activity','Title-col is-left xh-highlight','Title-col is-right h34','js-widget','layout-Player-rank','DiamondsFansRankList-item ','layout-Bottom-main','js-bottom-right-anchorLike',
+								'ScreenBannerAd','js-room-top-banner','PlayerToolbar','DropPane-ad','XinghaiAd','ChatRank-tabTitle','CloseVideoPlayerAd','CloseVideoCom'],
+	"zhihu.com":['Card TopstoryItem TopstoryItem--advertCard TopstoryItem-isRecommend','Pc-card Card','container']
+}
